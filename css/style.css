@@ -12,7 +12,7 @@ body {
 }
 
 .column1 {
-    background-image: url(imagenDeFondoRec.png);
+    background-image: url(../images/imagenDeFondoRec.png);
     background-repeat: no-repeat;
 }
 
