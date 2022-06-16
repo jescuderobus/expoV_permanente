@@ -12,6 +12,7 @@ body {
 }
 
 .column1 {
+    height:950px;
     background-image: url(../images/imagenDeFondoRec.png);
     background-repeat: no-repeat;
 }

@@ -11,7 +11,7 @@
 }
 .slick-slide img{
   width:90%;
-  border: 1px solid #f00;
+  border: 0px solid #f00;
 }
 
 .slick-next:before, .slick-prev:before  {
