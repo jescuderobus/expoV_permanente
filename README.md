@@ -15,12 +15,13 @@ Todos los elementos de una exposición deberian poder organizarse como OER, con 
 - Los audios en mp3 se acceden mediante códigos QR.
 
 ### Mapas
-- http://historicalatlas.com/
+- http://historicalatlas.com/ --> A dynamic, animated guide to a thousand years of history.
 - http://geacron.com/home-en/
 
 ### Timelines
 - http://simile.mit.edu/timeline/
 - https://timeline.knightlab.com/
+- https://www.timetoast.com/ --> Make a timeline, tell a story.
 
 
 ## Elementos Accesorios de una exposición
