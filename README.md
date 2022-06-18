@@ -1,6 +1,7 @@
 # expo-permanente
 
 El objetivo de esta pieza de software es el de ser un complemento de una exposición física, aportando una relación más cercana con el libro que está encerrado en una vitrina.
+
 Todos los elementos de una exposición deberian poder organizarse como OER, con bibliografías para meter los recursos que no sean de libre distribución.
 
 ## Elementos Básicos de una exposición
