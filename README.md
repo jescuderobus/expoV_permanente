@@ -10,6 +10,10 @@ Todos los elementos de una exposición deberian poder organizarse como OER, con 
 - https://archive.org
 - https://www.heyzine.com
 
+### Resúmenes de Libros - Recensión
+- Sinopsis del libro contada en una presentación reveal.js  
+- https://www.youtube.com/watch?v=BXEl_Fw_u9k 
+
 ### Audioguía
 - El comisario explica la exposición mediante audios en mp3.
 - Los audios en mp3 se acceden mediante códigos QR.
@@ -26,9 +30,12 @@ Todos los elementos de una exposición deberian poder organizarse como OER, con 
 
 ## Elementos Accesorios de una exposición
 
-Objetos en 3D, galerías de imágenes, árboles genealógicos, bibliografías...
+Objetos en 3D, galerías de imágenes/grabados, árboles genealógicos, bibliografías...
 
 ### Objetos en 3D
 - https://resurrect3d.lib.rochester.edu/embed/5eb0159212545f551d75f32f
-- 
+
+
+### Historic Tale Construction Kit
+- http://htck.github.io/bayeux/
 
