@@ -9,6 +9,7 @@ Todos los elementos de una exposición deberian poder organizarse como OER, con 
 ### Libros interactivos - Flipbooks
 - https://archive.org
 - https://www.heyzine.com
+- http://www.turnjs.com/
 
 ### Resúmenes de Libros - Recensión
 - Sinopsis del libro contada en una presentación reveal.js  
